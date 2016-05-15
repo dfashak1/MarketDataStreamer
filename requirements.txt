@@ -1,0 +1,5 @@
+googlefinance==0.7
+pytz==2016.4
+simplejson==3.8.2
+yahoo-finance==1.2.1
+ystockquote==0.2.4
